@@ -42,6 +42,8 @@ Aqui está um exemplo do painel construído no Excel:
 
 ---
 
+<iframe title="basededados" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=e304338d-f70e-4b5f-97c7-b0b28c2d6641&autoAuth=true&embeddedDemo=true" frameborder="0" allowFullScreen="true"></iframe>
+
 ✨ Desenvolvido por **Jamille**
 
 
