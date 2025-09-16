@@ -33,7 +33,8 @@ O objetivo é acompanhar minha evolução como leitora e **demonstrar habilidade
 ### 1️⃣ Excel
 Exemplo do painel construído no Excel:  
 
-![Dashboard Excel](painel.png.png)  
+![Dashboard Excel](./Excel/painel.png.png)
+
 
 ---
 
@@ -43,7 +44,7 @@ Confira a versão interativa do dashboard abaixo:
 <iframe title="basededados" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=e304338d-f70e-4b5f-97c7-b0b28c2d6641&autoAuth=true&embeddedDemo=true" frameborder="0" allowFullScreen="true"></iframe>
 
 ### 📸 Imagem do Dashboard Power BI
-![Dashboard Power BI](bidasbhboard.png)  
+![Dashboard Power BI](./PowerBI/bidasbhboard.png)  
 
 > ⚠️ Observação: A visualização interativa pode exigir login no Power BI ou navegador compatível.
 
